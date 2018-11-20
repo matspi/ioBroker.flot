@@ -1,7 +1,7 @@
 {
     "common": {
         "name": "flot",
-        "version": "1.9.2",
+        "version": "1.9.3",
         "news": {
             "1.9.2":  {
                 "en": "Translations",
