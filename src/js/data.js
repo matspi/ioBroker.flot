@@ -169,7 +169,7 @@ socket.on('connect', function () {
     }, 50);
 
     setTimeout(function () {
-        readData();
+        readData(true);
     }, 100);
 });
 
